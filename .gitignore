@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 /.env
 /node_modules
+=======
+*
+!Desktop/
+Desktop/*
+!Desktop/11/
+!.gitignore
+>>>>>>> origin/main
